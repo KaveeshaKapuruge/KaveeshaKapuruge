@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kaveesha Kapuruge!
+I'm a CSE undergraduate at University of Moratuwa, passionate about building full-stack web apps and exploring AI/ML. Currently working on improving my skills through hands-on projects.
 
-<!--
-**KaveeshaKapuruge/KaveeshaKapuruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- 💻 Languages: JavaScript, Python, C/C++, SQL
+- 🌐 Web: HTML, CSS, React, Node.js, Ballerina
+- 🧠 AI/ML: scikit-learn, pandas, matplotlib
+- 🗄️ DB: MySQL, Firebase
+- ⚙️ Tools: Git, VS Code, Postman, Figma
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+- [LinkedIn](www.linkedin.com/in/kaveeshakapuruge)
